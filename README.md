@@ -3,6 +3,8 @@ AI-Powered Learning System for Rural Education
 
 Overview
 An AI-driven learning platform for rural students using Azure AI services. Features include AI-generated quizzes, Kannada translation, text-to-speech, and image-based learning, ensuring equal access to education.
+![Workflow](worflow.png)
+
 
 Key Features
 
